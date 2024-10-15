@@ -26,5 +26,27 @@
         "port": 443,
         "password": "https://dsc.gg/ajidevserver",
         "secure": true
+    },
+    {
+      "id": "US",
+      "password": "lavalink@itzrandomcloud",
+      "hostname": "node.itzrandom.cloud",
+      "port": 9000,
+      "secure": false
+    },
+    {
+      "id": "jompo.cloud - Lavalink",
+      "password": "jompo",
+      "hostname": "lavalink-legacy.jompo.cloud",
+      "port": 2333,
+      "secure": false
+    },
+    {
+      "id": "Catfein",
+      "password": "catfein",
+      "hostname": "lava.catfein.com",
+      "port": 4000,
+      "secure": false
     }
+    
 ]
