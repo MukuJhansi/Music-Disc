@@ -1,8 +1,34 @@
 [
     {
-        "id": "Node 1",
-        "hostname": "localhost",
+        "id": "lavalink.jompo.cloud",
+        "hostname": "lavalink.jompo.cloud",
         "port": 2333,
-        "password": "youshallnotpass"
+        "password": "jompo",
+        "secure": false
     }
+    
+    {
+        "id": "lavalink.jirayu.net",
+        "hostname": "lavalink.jirayu.net",
+        "port": 13592,
+        "password": "youshallnotpass",
+        "secure": false
+    }
+    
+    {
+        "id": "lava-all.ajieblogs.eu.org",
+        "hostname": "lava-all.ajieblogs.eu.org",
+        "port": 80,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": false
+    }
+    
+    {
+        "id": "lava-all.ajieblogs.eu.org secure",
+        "hostname": "lava-all.ajieblogs.eu.org",
+        "port": 443,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": true
+    }
+    
 ]
